@@ -46,7 +46,7 @@ Before setting up HackTrek, ensure the following are installed on your system:
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/varun-1518/HackTrek.git
+git clone https://github.com/Balwanth-stark/HackTrek.git
 cd HackTrek
 ```
 
